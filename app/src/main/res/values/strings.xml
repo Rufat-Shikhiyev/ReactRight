@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ReactRight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_icon">Home</string>
+    <string name="location_icon">Location</string>
+    <string name="account_icon">Account</string>
+    <string name="natural_disasters">Natural Disasters</string>
+    <string name="search_icon">Search</string>
+    <string name="sos">SOS</string>
+    <string name="number">Number</string>
+    <string name="identity_card_fin_code">Identity card FIN code</string>
+    <string name="username">Username</string>
+    <string name="start">Start</string>
+    <string name="log_out">Log out</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="oops">Oops!</string>
+    <string name="protect_from">Protect from</string>
+    <string name="natural_disaster">Natural \nDisaster</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511458454471",
+    "project_id": "react-right",
+    "storage_bucket": "react-right.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511458454471:android:7c7d2f7d780448e54c47e2",
+        "android_client_info": {
+          "package_name": "com.reactright.reactright"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SUP5NWxppdr2ZyQkHd1-hVqE65UFib4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
